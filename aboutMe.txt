@@ -1,1 +1,3 @@
 Hi, my name is Matthew Hall and I am currently a junior at Santa Clara University majoring in computer science and engineering. I enjoy playing games with friends and reading books. 
+
+This quarter I am taking coen174, coen174L, coen169, phil27h, & sctr48.
